@@ -26,7 +26,7 @@ function Footer() {
           {/* Image section */}
           <div className="mb-10 text-gray-600">
             <Image src="/images/mpologo.png" alt="MPO" height={20} width={60} />
-            <p className="mt-5 pt-3">Copyright © 2022 MPO</p>
+            <p className="mt-5 pt-3">Copyright © 2022 saMPO</p>
             <p>All rights reserved.</p>
 
             <ul className="flex flex-row mt-6">
